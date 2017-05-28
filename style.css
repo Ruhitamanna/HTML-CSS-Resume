@@ -31,6 +31,9 @@ p {
     font: cursive;
     text-align:  center;
 }
+li{
+	color: red;
+}
 
 table{
 	td, th {
